@@ -99,3 +99,6 @@ Cada integrante realizará al menos un commit en este archivo como evidencia de 
 ### Aportación de Yaretzy
 
 Revisión de las reglas de comunicación, colaboración y organización del equipo.
+### Aportación de Daisy
+
+Revisión de las responsabilidades de los integrantes y organización de las actividades del equipo.
