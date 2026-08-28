@@ -105,4 +105,6 @@ Revisión de las responsabilidades de los integrantes y organización de las act
 
 ### Aportación de Diego
 
-Revisión de los criterios para la toma de decisiones y resolución de conflictos dentro del equipo.
+### Aportación de Diego
+
+Revisión de los criterios para la toma de decisiones y coordinación de las actividades del equipo.
