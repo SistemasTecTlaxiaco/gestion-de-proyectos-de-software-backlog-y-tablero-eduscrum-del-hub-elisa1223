@@ -102,3 +102,7 @@ Revisión de las reglas de comunicación, colaboración y organización del equi
 ### Aportación de Daisy
 
 Revisión de las responsabilidades de los integrantes y organización de las actividades del equipo.
+
+### Aportación de Diego
+
+Revisión de los criterios para la toma de decisiones y resolución de conflictos dentro del equipo.
