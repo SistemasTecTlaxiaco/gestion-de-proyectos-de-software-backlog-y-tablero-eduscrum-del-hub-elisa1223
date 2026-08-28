@@ -108,3 +108,15 @@ Revisión de las responsabilidades de los integrantes y organización de las act
 ### Aportación de Diego
 
 Revisión de los criterios para la toma de decisiones y coordinación de las actividades del equipo.
+## Rotación del eduScrum Master
+
+Para distribuir las responsabilidades de organización y seguimiento del trabajo, el equipo acordó realizar una rotación del rol de eduScrum Master.
+
+| Periodo | eduScrum Master |
+|---|---|
+| Semana 1 | Elisa |
+| Semana 2 | Diego |
+| Semana 3 | Yaretzy |
+| Semana 4 | Daisy |
+
+La rotación permitirá que todos los integrantes participen en la organización, seguimiento de actividades y actualización del tablero.
