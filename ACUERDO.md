@@ -11,7 +11,7 @@ El equipo utilizará GitHub como repositorio principal para almacenar documentos
 - Diego Ernesto López Vásquez
 - Elisa Sánchez Coronel
 - Yaretzy Montesinos López
-- Daisy
+- Daisy Ortiz López
 
 ## 3. Roles del equipo
 
@@ -37,7 +37,8 @@ Para fomentar la participación de todos los integrantes, el rol de eduScrum Mas
 | Sprint 3 | Yaretzy Montesinos López |
 | Sprint 4 | Daisy Ortiz López|
 
-## 5. Comunicación
+## 5. Comunicaiojn
+
 
 El equipo utilizará medios de comunicación acordados para organizar reuniones, resolver dudas y dar seguimiento a las actividades.
 
@@ -94,3 +95,7 @@ Todos los integrantes se comprometen a participar activamente, respetar las opin
 ## 12. Aceptación
 
 Cada integrante realizará al menos un commit en este archivo como evidencia de que conoce y acepta el presente acuerdo.
+
+### Aportación de Yaretzy
+
+Revisión de las reglas de comunicación, colaboración y organización del equipo.
